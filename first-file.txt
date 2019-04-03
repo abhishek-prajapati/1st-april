@@ -7,6 +7,7 @@ Git allows a team of people to work together, all using the same files. And it h
 Edit
 Visual Tools
 Please download and install SourceTreeApp (https://www.sourcetreeapp.com/) so that it is easier for you to understand what is going on here.
-
-Edit
 Important Commands
+
+git config user.name "user's first_name" 
+     git config user.email "user's email" 
