@@ -5,5 +5,6 @@ Git branching, we should have a separate branch for each release.
 Create feature branch for each feature, do not use master branch for development.
 Add git ignore, do not commit vendor, unwanted temporary file.
 Regularly,
+Help people interested in this repository understand your project by adding a README.
 Check spaces before commit, use git diff before adding for commit.
 Create the pull request after each push.y
