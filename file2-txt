@@ -4,6 +4,6 @@ Visua  Toolt (Commit Comments)
 Git branching, we should have a separate branch for each release.
 Create feature branch for each feature, do not use master branch for development.
 Add git ignore, do not commit vendor, unwanted temporary file.
-Regularly check account of git config.
+Regularly,
 Check spaces before commit, use git diff before adding for commit.
 Create the pull request after each push.y
